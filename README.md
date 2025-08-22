@@ -1,4 +1,4 @@
-##Aqui está um guia rápido de comandos Git!
+# Aqui está um guia rápido de comandos Git!
 
 ## Inicializar e configurar
 
